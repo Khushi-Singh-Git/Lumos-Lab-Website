@@ -1,4 +1,4 @@
-# :large_blue_circle: Lumos Lab Task
+# :large_blue_diamond: Lumos Lab Task
 <img src="https://media.giphy.com/media/YAvTD223LPtkT7ahMV/giphy-downsized-large.gif" height="400px" width="900px">
 
 ## :large_blue_circle: Website source: [Live Website](https://taupe-tiramisu-583056.netlify.app/)
