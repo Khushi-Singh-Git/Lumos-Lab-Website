@@ -9,7 +9,7 @@ const Navbar = () =>{
 
         <nav className="navbar navbar-expand-lg navbar-light bg-dark"  >
   <div className="container-fluid">
-  <NavLink to="/Home"> <img src='https://static.wixstatic.com/media/2d167d_d69aeb4d025149e7b982f84b43a9b9ff~mv2.png/v1/fill/w_294,h_119,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Lumos-Labs-Logo-(white).png' alt='pic' height="70px" width="200px"></img></NavLink>
+  <NavLink to="/"> <img src='https://static.wixstatic.com/media/2d167d_d69aeb4d025149e7b982f84b43a9b9ff~mv2.png/v1/fill/w_294,h_119,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Lumos-Labs-Logo-(white).png' alt='pic' height="70px" width="200px"></img></NavLink>
     <NavLink className="navbar-brand" to="/" style={{color:"#3498db",fontFamily:"revert"}} >Lumos Labs</NavLink>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
