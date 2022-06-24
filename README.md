@@ -1,3 +1,50 @@
+# :large_blue_circle: Lumos Lab Task
+<img src="https://media.giphy.com/media/YAvTD223LPtkT7ahMV/giphy-downsized-large.gif" height="400px" width="900px">
+
+## :large_blue_circle: Website source: [Live Website](https://taupe-tiramisu-583056.netlify.app/)
+
+## :large_blue_circle: Home Page
+![Screenshot (3607)](https://user-images.githubusercontent.com/107871742/175611758-10dc5644-424b-4aa5-958e-8efcd43edb6e.png)
+
+## :large_blue_circle: About Page
+![Screenshot (3608)](https://user-images.githubusercontent.com/107871742/175611794-efd00235-8f3b-4ca4-946c-ba24e87606a3.png)
+![Screenshot (3609)](https://user-images.githubusercontent.com/107871742/175611817-5c25638b-e40f-4315-9e0c-f2d5cbab4bf9.png)
+
+
+## :large_blue_circle: Metaverse
+![Screenshot (3610)](https://user-images.githubusercontent.com/107871742/175611852-d76d4cd2-50cc-4888-92ed-d088c2ff8293.png)
+
+
+## :large_blue_circle: Event
+![Screenshot (3611)](https://user-images.githubusercontent.com/107871742/175611866-ff89f4dd-bda9-429c-9735-569c3c72eb01.png)
+
+
+## :large_blue_circle: Contact
+![Screenshot (3612)](https://user-images.githubusercontent.com/107871742/175611889-ea174df0-4f59-48c0-a60f-400d02c2c8a5.png)
+
+## :large_blue_circle: Footer
+![Screenshot (3614)](https://user-images.githubusercontent.com/107871742/175611913-ebee7211-6de4-4ca2-827b-ac5ddb02d6c0.png)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
