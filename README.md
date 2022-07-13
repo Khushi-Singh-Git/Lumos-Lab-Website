@@ -1,4 +1,4 @@
-# :large_blue_diamond: Lumos Lab Task
+# :large_blue_diamond: Lumos Lab Website
 <img src="https://media.giphy.com/media/YAvTD223LPtkT7ahMV/giphy-downsized-large.gif" height="400px" width="900px">
 
 ## :large_blue_circle: Website source: [Live Website](https://lovely-moxie-5d1880.netlify.app/)
